@@ -1,0 +1,194 @@
+# Crea una categoria o un tipo de carta.
+
+## Rama
+::sub rama nombre > Comentario
+
+Por ejemplo, una carta de fisica con la tag principal ElectroMagnetismo y un subtag Electroestatica se vería en Anki.
+
+# Fisica
+
+##ElectroMagnetismo
+::Electroestatica
+------------ Tags en los mazos -----------------
+## Algebra
+::Binomios
+    ::Coeficiente_Binomial
+::Elipse
+::Identidades
+::Trigonometria
+
+## Algebra_Lineal
+::Complejos
+::Eigen
+
+## Algoritmos
+::Big_O
+::FTF > Fast Fourier Transform
+
+## APPA
+> Es un formato APPA para citar articulos y libros.
+::Autor
+::Biblografia
+::citar
+::Web
+::DOI
+::Libro
+::Referencias
+::Revista_Cientifica
+
+## Astronomia
+::Constantes
+::Constelaciones
+
+## Calculo
+::Bessel
+::Cambio_Variable
+::Delta_Dirac
+::Derivadas
+::Diferenciales
+::Ecuaciones_Diferenciales
+    ::Fourier   
+    ::Laplace
+    ::Frobenius
+    ::Sturm > Problemas del tipo STURM LIOVILLE (algo más avanzado)
+::Integral
+    ::Exponencial
+    ::Funcion_Periodica
+::Multivariable
+::Jacobiano
+::Taylor
+    ::2_Variables
+    ::Error
+
+## Constante
+Constante > Conocidas como la temperatura del agua, kelvins, etc.
+
+## Coordenadas
+::Cilindricas
+::Polares
+
+## DataScience
+
+## Data_Type
+::Array
+
+## ElectroMagnetismo
+::Calculo
+::Campos
+    ::Campo_Electroestatico
+    ::Campo_Magnetoestatico
+    ::Condicion_Borde
+::Corriente
+    ::Nodos
+    ::Ohm
+    ::Resistencia
+::Electroestatica
+    ::Conductores
+::Ley
+::Vectores > Son propiedades utiles del calculo multivariable
+::Onda_EM
+    ::Vector_Poynting
+
+## Ejercicios
+> Problemas matematicos para probar.
+
+## ExpansionFunciones
+> Todos los metodos de escribir funciones o expresiones como SERIES
+
+## Fisica
+> Conceptos mas generales como energia, trabajo, etc.
+::Energia
+
+## Mecanica
+::Rotacional
+    ::Torque
+::Centro_Masa
+::Momento_Inercia
+::Trabajo
+
+##MecanicaIntermedia
+::Funcional
+
+## Mecanica_Cuantica
+::Armonicos
+::Bases
+::Bases_Continuas
+::Bases_Discretas
+::Bases_Discretas::Ortonormalidad
+::Bohr
+::Brakets
+::Foton
+::Eigen > Referencia a vectores propios
+::Gato > Referencia a Schroedinger
+::Inecualidades
+::Niveles_Energia
+
+## Metodos_Matematicos
+::Expansion_Fourier
+::Funcion_Beta
+::Funcion_Gamma
+    ::Propiedades
+::Hipergeometricas
+::Integrales
+::MOB > Es un metodo de BRACKETS, sirve para integrales de cromodinamica.
+::Notacion_Indicial
+::Series
+    ::Convergencia
+
+## Lab
+::Error
+
+## Lenguajes
+> Es todo lo relacionado a lenguajes de programación, JavaScript, Python, etc.
+::JavaScript
+::Python
+    ::Data > Manipulación de datos.
+        ::Encoding > UTF8 y cómo convertir otros formatos
+    ::Decortators > Funciones magicas de Python
+    ::Graficos
+    ::Print
+
+## Ondas
+::Conceptos
+::Velocidad
+
+## Probabilidad 
+::Deficiones
+
+## RelatividadEspecial
+
+## Tensores
+::Componentes
+::Contravariente
+::Covariante
+::Metrica
+::Producto_Interno
+::Transformacion
+
+## Termodinamica
+::Agujero_Negro
+::Boltzmann
+    ::Ley
+::Cantidades
+    ::Energia_Interna
+::Coeficientes
+    ::Compresion_Expasion
+::Conceptos
+::Cuerpo_Negro > El modelo de radiación
+::Gases
+    ::Gas_Ideal
+::Ecuacion
+::Energia_Gibbs
+::Entalpia
+::Entropia
+::Kelvin
+::Ley
+::Magnetismo
+::Relacion_Maxwell
+::Temperatura
+
+## Esencial
+> Aquí se juntan "trucos matematicos" para integrales.
+
+## Mazos
+> Dirigirse a mazos.md
